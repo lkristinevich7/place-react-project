@@ -1,0 +1,10 @@
+{
+    "env":{
+        "DB_USER": "admin",
+        "DB_PASSWORD": "test",
+        "DB_NAME": "test",
+        "GOOGLE_API_KEY": "AIzaSyDOAVpZAae7mdqwPsvZEgtrjalZ2MvFCTY",
+        "JWT_KEY": "supersecret_dont_share"
+
+    }
+}
